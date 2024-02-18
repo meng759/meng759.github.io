@@ -1,0 +1,29 @@
+{
+  "users" : [
+
+    {
+      "DisplayName" : "Bilbo Baggins",
+      "EmailAddress" : "bbaggins@ecxample.com",
+      "Username" : "bbaggins",
+      "Password" : "123456"
+    },
+
+    {
+      "DisplayName" : "Samwise Gamgee",
+      "EmailAddress" : "sgamgee@ecxample.com",
+      "Username" : "sgamgee",
+      "Password" : "123455"
+    },
+
+    {
+      "DisplayName" : "Admin",
+      "EmailAddress" : "admin@ecxample.com",
+      "Username" : "admin",
+      "Password" : "555555"
+    }
+  ]
+
+
+
+
+}
